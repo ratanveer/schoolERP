@@ -1,0 +1,10 @@
+Admin Credential
+
+Username: admin	
+Password: 123456
+
+Database Credential
+
+'username' => 'hotel_state',
+'password' => 'Admin@1234#',
+'database' => 'hotel_kenstate',
